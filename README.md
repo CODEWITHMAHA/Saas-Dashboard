@@ -105,7 +105,7 @@ saas-dashboard/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/saas-dashboard.git
+git clone https://github.com/CODEWITHMAHA/saas-dashboard.git
 cd saas-dashboard
 ```
 
